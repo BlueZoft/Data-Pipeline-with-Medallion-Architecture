@@ -1,0 +1,9 @@
+{
+	"name": "project-spark-adfakila",
+	"location": "eastus",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "515d5913-1721-4a19-97f5-a3ef9b4b15da",
+		"tenantId": "54efe58d-72b7-45af-9a01-30ee5f377a71"
+	}
+}
